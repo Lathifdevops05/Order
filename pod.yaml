@@ -9,4 +9,4 @@ spec:
   - name: nginx
     image: nginx:latest 4.0
     ports:
-    - containerPort: 9090
+    - containerPort: 8080
